@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on the modelic.ai project, focusing on FastAPI and MongoDB.<br>Worked on image processing, neural networks, and CNN-based image classification and segmentation.<br>Passionate about AI, image processing, and neural networks.<br>Learning Golang, LLMs, and advanced neural networks.
+Currently working on the modelic.ai project, focusing on FastAPI, Golang, Temporal.io and MongoDB.<br>Worked on image processing, neural networks, and CNN-based image classification and segmentation.<br>Passionate about AI, image processing, and neural networks.<br>Learning Golang, LLMs, and advanced neural networks.
 
 
 ## 🌐 Socials:
